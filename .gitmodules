@@ -7,3 +7,6 @@
 [submodule "static-hosting/Rock-Paper-Scissor"]
 	path = static-hosting/Rock-Paper-Scissor
 	url = https://github.com/dharminnagar/Rock-Paper-Scissor
+[submodule "static-hosting/Cancer-Detection-"]
+	path = static-hosting/Cancer-Detection-
+	url = https://github.com/vanshcodeshaerd/Cancer-Detection-
