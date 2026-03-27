@@ -1,0 +1,9 @@
+[submodule "static-hosting/nuv"]
+	path = static-hosting/nuv
+	url = https://github.com/dharminnagar/nuv
+[submodule "static-hosting/weather"]
+	path = static-hosting/weather
+	url = https://github.com/dharminnagar/weather
+[submodule "static-hosting/Rock-Paper-Scissor"]
+	path = static-hosting/Rock-Paper-Scissor
+	url = https://github.com/dharminnagar/Rock-Paper-Scissor
