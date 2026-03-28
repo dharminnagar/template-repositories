@@ -10,3 +10,6 @@
 [submodule "static-hosting/Cancer-Detection-"]
 	path = static-hosting/Cancer-Detection-
 	url = https://github.com/vanshcodeshaerd/Cancer-Detection-
+[submodule "managed-hosting/geo-globe-three"]
+	path = managed-hosting/geo-globe-three
+	url = https://github.com/Code-Parth/geo-globe-three
