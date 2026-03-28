@@ -16,3 +16,6 @@
 [submodule "static-hosting/oklch-color"]
 	path = static-hosting/oklch-color
 	url = https://github.com/code-Parth/oklch-color
+[submodule "managed-hosting/deployment-test"]
+	path = managed-hosting/deployment-test
+	url = https://github.com/dharminnagar/deployment-test
