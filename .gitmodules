@@ -13,3 +13,6 @@
 [submodule "managed-hosting/geo-globe-three"]
 	path = managed-hosting/geo-globe-three
 	url = https://github.com/Code-Parth/geo-globe-three
+[submodule "static-hosting/oklch-color"]
+	path = static-hosting/oklch-color
+	url = https://github.com/code-Parth/oklch-color
